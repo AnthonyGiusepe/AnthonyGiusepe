@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anthony Castro</h1>
 
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-👨‍💻 I’m currently  Systems engineer
+<br>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+👨‍💻 I have a bachelor's degree in systems engineering.
 
 🌱 I’m currently learning **WEB Development Full-Stack**.
 
@@ -15,11 +18,22 @@
 
 ⚡ Fun fact : Gym and Music are the reasons to live.
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<table border="0" align="right">
+<tr border="0">
+  
+  <td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnthonyGiusepe&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+  
+</tr>
+</table>
+
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
@@ -32,5 +46,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+                  
+
 
 
