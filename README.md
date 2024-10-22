@@ -12,11 +12,12 @@
 
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-🌱 I’m currently open for</b>: A new job opportunity.
+🌱 I’m currently open for</b>: A new job opportunity, this is [my resume](https://drive.google.com/file/d/1WrN14hp6u6D2xO2OZY7na4TUhRS7Ix90/view?usp=sharing)
 
 📫 How to reach me **riiusepi32@gmail.com**.
 
 ⚡ Fun fact : Gym and Music are the reasons to live.
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
